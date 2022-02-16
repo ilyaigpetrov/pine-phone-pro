@@ -1,4 +1,5 @@
-# pine-phone-pro
+# PinePhone Pro Software Issues and general discussions.
+
 A repo to track software issues on PinePhone Pro of different distros.
 
 Bugs and feature requests: https://github.com/ilyaigpetrov/pine-phone-pro/issues.  
